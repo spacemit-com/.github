@@ -20,15 +20,15 @@ It provides:
 
 | Software | Updated | K1 Progress | K3 Progress | Details |
 |---|---|---|---|---|
-| Linux kernel | 2026-05-30 | Mainline support | Mainline support | [Linux kernel Module Status](https://github.com/spacemit-com/linux/wiki) |
-| OpenSBI | 2026-05-30 | Completed: major planned support | Planning | [OpenSBI Module Status](https://github.com/spacemit-com/opensbi-upstream/wiki) |
-| U-Boot | 2026-05-30 | WIP: K1 upstream support | Planning | [U-Boot Module Status](https://github.com/spacemit-com/u-boot/wiki) |
+| Linux kernel | 2026-07-07 | Mainline support | Mainline support | [Linux kernel Module Status](https://github.com/spacemit-com/linux/wiki) |
+| OpenSBI | 2026-07-07 | Completed: major planned support | Planning | [OpenSBI Module Status](https://github.com/spacemit-com/opensbi-upstream/wiki) |
+| U-Boot | 2026-07-07 | WIP: K1 upstream support | Planning | [U-Boot Module Status](https://github.com/spacemit-com/u-boot/wiki) |
 | llama.cpp | 2026-06-05 | WIP | WIP | [llama.cpp Module Status](https://github.com/spacemit-com/llama.cpp/wiki) |
 | FlagGems | 2026-06-05 | WIP | WIP | [FlagGems Module Status](https://github.com/spacemit-com/spine-FlagGems/wiki) |
-| LLVM | 2026-05-30 | Mainline support | Mainline support| [LLVM Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
-| GCC | 2026-05-30 | Mainline support | Planning | [GCC Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
-| Binutils | 2026-05-30 | WIP | WIP | [Binutils Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
-| spine-triton<br>(Independent OSS project) | 2026-06-05 | WIP | WIP | [spine-triton Module Status](https://github.com/spacemit-com/spine-triton/wiki) |
+| LLVM | 2026-07-01 | Mainline support | Mainline support| [LLVM Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
+| GCC | 2026-07-01 | Mainline support | Planning | [GCC Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
+| Binutils | 2026-07-01 | WIP | WIP | [Binutils Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
+| spine-triton<br>(Independent OSS project) | 2026-07-06 | WIP | WIP | [spine-triton Module Status](https://github.com/spacemit-com/spine-triton/wiki) |
 | onnxruntime<br>(Independent OSS project) | 2026-06-05 | WIP | WIP | [onnxruntime Module Status](https://github.com/spacemit-com/onnxruntime/wiki) |
 
 ## Download Resources
