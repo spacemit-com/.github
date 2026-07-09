@@ -12,6 +12,7 @@ It provides:
 ## Table of Contents
 
 - [Upstream Status](#upstream-status)
+- [Open Source Project Status](#open-source-project-status)
 - [Download Resources](#download-resources)
 - [Communication Platform](#communication-platform)
 
@@ -38,7 +39,7 @@ It provides:
 | Reachy Mini | Robotics | K3 | Desktop robot, vision follow, voice & dance | Demo Ready; Docs WIP | [Repository](https://github.com/spacemit-robotics/reachy_mini) |
 | Linksee | Robotics | K3 | Wheeled robot, SLAM, navigation | Demo Ready; Docs WIP | [Repository](https://github.com/spacemit-robotics/linksee) |
 | LeRobot App | Robotics | K3 | SO101 arm, ACT/SmolVLA, local inference | Demo Ready; Simulation Ready | [Repository](https://github.com/spacemit-robotics/lerobot_app) |
-| Humanoid | Robotics | K3 | Humanoid control, MuJoCo, RL inference | Validation | [Repository](https://github.com/spacemit-robotics/rivision) |
+| Humanoid | Robotics | K3 | Humanoid control, MuJoCo, RL inference | Validation | [Repository](https://github.com/spacemit-robotics/humanoid_unitree_g1) |
 
 ## Download Resources
 
