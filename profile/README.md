@@ -28,8 +28,17 @@ It provides:
 | LLVM | 2026-07-01 | Mainline support | Mainline support| [LLVM Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
 | GCC | 2026-07-01 | Mainline support | Planning | [GCC Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
 | Binutils | 2026-07-01 | WIP | WIP | [Binutils Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
-| spine-triton<br>(Independent OSS project) | 2026-07-06 | WIP | WIP | [spine-triton Module Status](https://github.com/spacemit-com/spine-triton/wiki) |
-| onnxruntime<br>(Independent OSS project) | 2026-06-05 | WIP | WIP | [onnxruntime Module Status](https://github.com/spacemit-com/onnxruntime/wiki) |
+
+## Open Source Project Status
+
+| Project | Type | Platform | Key | Status | Details |
+|---|---|---|---|---|---|
+| spine-triton | AI Infra | K1/K3 | Triton CPU backend, MLIR pipeline, RVV/IME/AME | WIP | [spine-triton Module Status](https://github.com/spacemit-com/spine-triton/wiki) |
+| onnxruntime | AI Infra | K1/K3 | ONNX inference, SpacemiT EP, Python/C/C++ API | WIP | [onnxruntime Module Status](https://github.com/spacemit-com/onnxruntime/wiki) |
+| Reachy Mini | Robotics | K3 | Desktop robot, vision follow, voice & dance | Demo Ready; Docs WIP | [Repository](https://github.com/spacemit-robotics/reachy_mini) |
+| Linksee | Robotics | K3 | Wheeled robot, SLAM, navigation | Demo Ready; Docs WIP | [Repository](https://github.com/spacemit-robotics/linksee) |
+| LeRobot App | Robotics | K3 | SO101 arm, ACT/SmolVLA, local inference | Demo Ready; Simulation Ready | [Repository](https://github.com/spacemit-robotics/lerobot_app) |
+| Humanoid | Robotics | K3 | Humanoid control, MuJoCo, RL inference | Validation | [Repository](https://github.com/spacemit-robotics/rivision) |
 
 ## Download Resources
 
