@@ -37,7 +37,7 @@ Reference Documentation:
 | LLVM | X100 Fusion | Merged | [#178594](https://github.com/llvm/llvm-project/pull/178594) | Contributed by SpacemiT |
 | LLVM | A100 Processor Definition | Merged | [#174052](https://github.com/llvm/llvm-project/pull/174052) | Contributed by SpacemiT |
 | LLVM | A100 Schedule Model | N/A | N/A | Same as X60 |
-| LLVM | A100 Vendor Extension | Under Review | [#202533](https://github.com/llvm/llvm-project/pull/202533) | `xsmtvdotii`; Contributed by SpacemiT |
+| LLVM | A100 Vendor Extension | Merged | [#202533](https://github.com/llvm/llvm-project/pull/202533) | `xsmtvdotii`; Contributed by SpacemiT |
 | LLVM | A100 Fusion | N/A | N/A | Same as X60 |
 | GCC | X100 Processor Definition & Schedule Model | Merged | [2026-June/722040](https://sourceware.org/pipermail/gcc-patches/2026-June/722040.html) | Contributed by SpacemiT |
 | GCC | A100 Processor Definition & Schedule Model | Merged | [2026-June/722133](https://sourceware.org/pipermail/gcc-patches/2026-June/722133.html) | Contributed by SpacemiT |
