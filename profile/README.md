@@ -27,8 +27,8 @@ It provides:
 | llama.cpp | 2026-06-05 | WIP | WIP | [llama.cpp Module Status](https://github.com/spacemit-com/llama.cpp/wiki) |
 | FlagGems | 2026-06-05 | WIP | WIP | [FlagGems Module Status](https://github.com/spacemit-com/spine-FlagGems/wiki) |
 | LLVM | 2026-07-01 | Mainline support | Mainline support| [LLVM Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
-| GCC | 2026-07-01 | Mainline support | Planning | [GCC Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
-| Binutils | 2026-07-01 | WIP | WIP | [Binutils Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
+| GCC | 2026-09-01 | Mainline support | Mainline support | [GCC Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
+| Binutils | 2026-09-01 | Mainline support | Mainline support | [Binutils Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
 
 ## Open Source Project Status
 
