@@ -21,9 +21,9 @@ It provides:
 
 | Software | Updated | K1 Progress | K3 Progress | Details |
 |---|---|---|---|---|
-| Linux kernel | 2026-07-07 | Mainline support | Mainline support | [Linux kernel Module Status](https://github.com/spacemit-com/linux/wiki) |
+| Linux kernel | 2026-09-09 | Mainline support | Mainline support | [Linux kernel Module Status](https://github.com/spacemit-com/linux/wiki) |
 | OpenSBI | 2026-07-07 | Completed: major planned support | Planning | [OpenSBI Module Status](https://github.com/spacemit-com/opensbi-upstream/wiki) |
-| U-Boot | 2026-07-07 | WIP: K1 upstream support | Planning | [U-Boot Module Status](https://github.com/spacemit-com/u-boot/wiki) |
+| U-Boot | 2026-09-07 | WIP: K1 upstream support | Planning | [U-Boot Module Status](https://github.com/spacemit-com/u-boot/wiki) |
 | llama.cpp | 2026-06-05 | WIP | WIP | [llama.cpp Module Status](https://github.com/spacemit-com/llama.cpp/wiki) |
 | FlagGems | 2026-06-05 | WIP | WIP | [FlagGems Module Status](https://github.com/spacemit-com/spine-FlagGems/wiki) |
 | LLVM | 2026-07-01 | Mainline support | Mainline support| [LLVM Upstream Status](https://github.com/spacemit-com/.github/blob/main/upstream-status/toolchain.md) |
