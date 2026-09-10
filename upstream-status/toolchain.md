@@ -43,10 +43,3 @@ Reference Documentation:
 | GCC | A100 Processor Definition & Schedule Model | Merged | [2026-June/722133](https://sourceware.org/pipermail/gcc-patches/2026-June/722133.html) | Contributed by SpacemiT |
 | GCC | A100 Vendor Extension | Merged |  [2026-June/722133](https://sourceware.org/pipermail/gcc-patches/2026-June/722133.html) | Contributed by SpacemiT |
 | Binutils | A100 Vendor Extension | Merged | [2026-May/149417](https://sourceware.org/pipermail/binutils/2026-May/149417.html) | Contributed by SpacemiT |
-
-## Monthly Update Log
-
-| Month | Summary | Updated by |
-|---|---|---|
-| 2026-06 | Initial status created | [Mark Zhuang](https://github.com/zqb-all), [yutingnie](https://github.com/YutingNie) |
-
