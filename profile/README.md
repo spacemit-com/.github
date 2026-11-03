@@ -36,6 +36,8 @@ Founded in November 2021, we are a RISC-V architecture AI CPU chip company. We i
 > **Upstream-First Engineering**  
 > We actively contribute to open-source foundation projects. Both **K1** and **K3** are supported in **mainline Linux**, standard **GCC**, **LLVM**, and **Binutils**. No proprietary toolchains, no obsolete custom forks — standard distribution packages from Debian, Ubuntu, and Fedora work out of the box.
 
+For an overview of K1/K3 upstream support and open-source project status, see the [SpacemiT Open Source Upstream Summary](https://github.com/spacemit-com/.github/blob/main/README.md).
+
 ---
 
 ### Target Applications
