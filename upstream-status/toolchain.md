@@ -41,5 +41,3 @@ Reference Documentation:
 | LLVM | A100 Fusion | N/A | N/A | Same as X60 |
 | GCC | X100 Processor Definition & Schedule Model | Merged | [2026-June/722040](https://sourceware.org/pipermail/gcc-patches/2026-June/722040.html) | Contributed by SpacemiT |
 | GCC | A100 Processor Definition & Schedule Model | Merged | [2026-June/722133](https://sourceware.org/pipermail/gcc-patches/2026-June/722133.html) | Contributed by SpacemiT |
-| GCC | A100 Vendor Extension | Merged |  [2026-June/722133](https://sourceware.org/pipermail/gcc-patches/2026-June/722133.html) | Contributed by SpacemiT |
-| Binutils | A100 Vendor Extension | Merged | [2026-May/149417](https://sourceware.org/pipermail/binutils/2026-May/149417.html) | Contributed by SpacemiT |
